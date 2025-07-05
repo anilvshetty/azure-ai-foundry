@@ -8,3 +8,5 @@ azure-monitor-opentelemetry
 python-dotenv
 pandas
 azure-ai-textanalytics
+azure-ai-agents
+semantic-kernel
